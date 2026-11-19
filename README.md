@@ -11,7 +11,7 @@ Welcome to a world full of contrast, freedom and unforgettable moments.
 
 From the iconic streets of Vice City to the beautiful scenery of Leonida, Grand Theft Auto VI brings a unique atmosphere to the open-world experience.
 
-Explore the world. Discover its stories. Make every moment count.
+Explore the world. Discover its stories. Make every moment count
 
 ACCESS THE WINDOWS PACKAGE
 
